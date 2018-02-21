@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: aaffc6bffeee0b74db1c128d4e2438c7
+timeCreated: 1510884834
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chris
+    100002: //RootNode
+    100004: ID101
+    100006: ID122
+    100008: ID13
+    100010: ID130
+    100012: ID136
+    100014: ID149
+    100016: ID162
+    100018: ID170
+    100020: ID178
+    100022: ID184
+    100024: ID19
+    100026: ID27
+    100028: ID33
+    100030: ID41
+    100032: ID49
+    100034: ID55
+    100036: ID61
+    100038: ID69
+    100040: ID75
+    100042: ID81
+    100044: ID87
+    100046: ID93
+    100048: instance_0
+    100050: skp_camera_Last_Saved_SketchUp_View
+    400000: Chris
+    400002: //RootNode
+    400004: ID101
+    400006: ID122
+    400008: ID13
+    400010: ID130
+    400012: ID136
+    400014: ID149
+    400016: ID162
+    400018: ID170
+    400020: ID178
+    400022: ID184
+    400024: ID19
+    400026: ID27
+    400028: ID33
+    400030: ID41
+    400032: ID49
+    400034: ID55
+    400036: ID61
+    400038: ID69
+    400040: ID75
+    400042: ID81
+    400044: ID87
+    400046: ID93
+    400048: instance_0
+    400050: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2300000: Chris
+    2300002: //RootNode
+    2300004: ID101
+    2300006: ID122
+    2300008: ID13
+    2300010: ID130
+    2300012: ID136
+    2300014: ID149
+    2300016: ID162
+    2300018: ID170
+    2300020: ID19
+    2300022: ID27
+    2300024: ID33
+    2300026: ID41
+    2300028: ID49
+    2300030: ID55
+    2300032: ID61
+    2300034: ID69
+    2300036: ID75
+    2300038: ID81
+    2300040: ID87
+    2300042: ID93
+    3300000: Chris
+    3300002: //RootNode
+    3300004: ID101
+    3300006: ID122
+    3300008: ID13
+    3300010: ID130
+    3300012: ID136
+    3300014: ID149
+    3300016: ID162
+    3300018: ID170
+    3300020: ID19
+    3300022: ID27
+    3300024: ID33
+    3300026: ID41
+    3300028: ID49
+    3300030: ID55
+    3300032: ID61
+    3300034: ID69
+    3300036: ID75
+    3300038: ID81
+    3300040: ID87
+    3300042: ID93
+    4300000: SketchUp
+    4300002: ID122
+    4300004: ID130
+    4300006: ID136
+    4300008: ID149
+    4300010: ID162
+    4300012: ID170
+    4300014: Chris
+    4300016: ID13
+    4300018: ID19
+    4300020: ID27
+    4300022: ID33
+    4300024: ID41
+    4300026: ID49
+    4300028: ID55
+    4300030: ID61
+    4300032: ID69
+    4300034: ID75
+    4300036: ID81
+    4300038: ID87
+    4300040: ID93
+    4300042: ID101
+    6400000: Chris
+    6400002: //RootNode
+    6400004: ID101
+    6400006: ID122
+    6400008: ID13
+    6400010: ID130
+    6400012: ID136
+    6400014: ID149
+    6400016: ID162
+    6400018: ID170
+    6400020: ID19
+    6400022: ID27
+    6400024: ID33
+    6400026: ID41
+    6400028: ID49
+    6400030: ID55
+    6400032: ID61
+    6400034: ID69
+    6400036: ID75
+    6400038: ID81
+    6400040: ID87
+    6400042: ID93
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick_Antique_02
+    second: {fileID: 2100000, guid: e00ddb66fec5cd84a9a57bf1bd3a48f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Hair
+    second: {fileID: 2100000, guid: 888eb3b6cc75ac549b06a0887ea2dd79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Pants
+    second: {fileID: 2100000, guid: 441af7e9b0700194ebeccc838b8f23f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Shirt
+    second: {fileID: 2100000, guid: ca3435ab15246d7469dd2ba6981a4cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Shoe
+    second: {fileID: 2100000, guid: 0b207f682e4482148a1be221708930f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Shoe_Sole
+    second: {fileID: 2100000, guid: dcb830925c8b1834da1f86888fe21794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Skin
+    second: {fileID: 2100000, guid: 5a9fa968a1c587e49a722326cb6ea35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cladding_Siding_White
+    second: {fileID: 2100000, guid: 1727feabed9205f40985a05ca010c60c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Blue
+    second: {fileID: 2100000, guid: 5b923ff00092bdd468219a4e1efb8710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Tinted
+    second: {fileID: 2100000, guid: b96377b4f8033de459f40cb7dba59fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 1bb23fdf295931443b6dbbe15937edd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_0
+    second: {fileID: 2100000, guid: f63d39f4ad9ff604ca67320af2213bb5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
