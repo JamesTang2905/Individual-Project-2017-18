@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 471}
   m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
-  controlID: 100
+  controlID: 27
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 471}
   m_MaxSize: {x: 18008, y: 14021}
   vertical: 0
-  controlID: 9
+  controlID: 64
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -352,7 +352,8 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Mr Chow's Files\Documents\Virtual Campus of Reading University
+  m_LastProjectPath: D:\Mr Chow's Files\Documents\GitHub\Individual-Project-2017-18\Virtual
+    Campus of Reading University
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -551,9 +552,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1554.2344, y: 310.15652, z: -3763.8572}
+    m_Target: {x: -2706.7822, y: 492.7291, z: -3247.625}
     speed: 2
-    m_Value: {x: -1554.2344, y: 310.15652, z: -3763.8572}
+    m_Value: {x: -2706.7822, y: 492.7291, z: -3247.625}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -577,13 +578,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.20121011, y: 0.5093068, z: -0.12382484, w: -0.82751954}
+    m_Target: {x: 0.10356943, y: 0.835657, z: -0.16897833, w: 0.5122474}
     speed: 2
-    m_Value: {x: -0.20121011, y: 0.5093068, z: -0.12382484, w: -0.8275196}
+    m_Value: {x: 0.10356942, y: 0.8356569, z: -0.16897832, w: 0.5122473}
   m_Size:
-    m_Target: 205.53482
+    m_Target: 50.00966
     speed: 2
-    m_Value: 205.53482
+    m_Value: 50.00966
   m_Ortho:
     m_Target: 0
     speed: 2
