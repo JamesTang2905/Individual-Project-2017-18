@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="9">
+    <MainConfig>
+        <Comparison>
+            <Variant>TimeAndSize</Variant>
+            <Symlinks>Exclude</Symlinks>
+            <IgnoreTimeShift/>
+        </Comparison>
+        <SyncConfig>
+            <Variant>Update</Variant>
+            <DetectMovedFiles>false</DetectMovedFiles>
+            <DeletionPolicy>Versioning</DeletionPolicy>
+            <VersioningFolder Style="TimeStamp">D:\Mr Chow's Files\Documents\Old Files for File Sync</VersioningFolder>
+        </SyncConfig>
+        <GlobalFilter>
+            <Include>
+                <Item>*</Item>
+            </Include>
+            <Exclude>
+                <Item>\System Volume Information\</Item>
+                <Item>\$Recycle.Bin\</Item>
+                <Item>\RECYCLER\</Item>
+                <Item>\RECYCLED\</Item>
+                <Item>*\desktop.ini</Item>
+                <Item>*\thumbs.db</Item>
+            </Exclude>
+            <TimeSpan Type="None">0</TimeSpan>
+            <SizeMin Unit="None">0</SizeMin>
+            <SizeMax Unit="None">0</SizeMax>
+        </GlobalFilter>
+        <FolderPairs>
+            <Pair>
+                <Left>D:\Google Drive\Reading Uni Work Part Final, (Put fancy title here)\Indivdual Project</Left>
+                <Right>D:\Mr Chow's Files\Documents\GitHub\Individual-Project-2017-18\Documents</Right>
+                <SyncConfig>
+                    <Variant>Mirror</Variant>
+                    <DetectMovedFiles>false</DetectMovedFiles>
+                    <DeletionPolicy>Versioning</DeletionPolicy>
+                    <VersioningFolder Style="TimeStamp">D:\Mr Chow's Files\Documents\Old Files for File Sync</VersioningFolder>
+                </SyncConfig>
+            </Pair>
+        </FolderPairs>
+        <IgnoreErrors>false</IgnoreErrors>
+        <PostSyncCommand Condition="Completion"/>
+    </MainConfig>
+    <GuiConfig>
+        <MiddleGridView>Action</MiddleGridView>
+    </GuiConfig>
+</FreeFileSync>
