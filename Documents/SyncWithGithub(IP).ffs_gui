@@ -7,7 +7,7 @@
             <IgnoreTimeShift/>
         </Comparison>
         <SyncConfig>
-            <Variant>Update</Variant>
+            <Variant>Mirror</Variant>
             <DetectMovedFiles>false</DetectMovedFiles>
             <DeletionPolicy>Versioning</DeletionPolicy>
             <VersioningFolder Style="TimeStamp">D:\Mr Chow's Files\Documents\Old Files for File Sync</VersioningFolder>
