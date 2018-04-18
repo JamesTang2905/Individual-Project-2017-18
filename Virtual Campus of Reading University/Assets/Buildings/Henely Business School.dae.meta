@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: f081037714c9a4c428b782e8da3cee8a
+timeCreated: 1524053688
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Commercial_Handle__inside
+    100002: Commercial_Handle__inside 1
+    100004: Commercial_Handle__inside 2
+    100006: Commercial_Handle__inside 3
+    100008: Commercial_Handle__inside 4
+    100010: Commercial_Handle__inside 5
+    100012: Glass_Double_Door
+    100014: Glass_Double_Door 1
+    100016: Glass_Double_Door 2
+    100018: //RootNode
+    100020: Henley_Business_
+    100022: ID105
+    100024: ID111
+    100026: ID117
+    100028: ID123
+    100030: ID129
+    100032: ID135
+    100034: ID141
+    100036: ID147
+    100038: ID15
+    100040: ID153
+    100042: ID159
+    100044: ID165
+    100046: ID171
+    100048: ID196
+    100050: ID196 1
+    100052: ID196 2
+    100054: ID204
+    100056: ID204 1
+    100058: ID204 2
+    100060: ID21
+    100062: ID212
+    100064: ID212 1
+    100066: ID212 2
+    100068: ID230
+    100070: ID230 1
+    100072: ID230 2
+    100074: ID238
+    100076: ID238 1
+    100078: ID238 2
+    100080: ID246
+    100082: ID246 1
+    100084: ID246 2
+    100086: ID27
+    100088: ID271
+    100090: ID271 1
+    100092: ID271 2
+    100094: ID279
+    100096: ID279 1
+    100098: ID279 2
+    100100: ID294
+    100102: ID294 1
+    100104: ID294 2
+    100106: ID302
+    100108: ID302 1
+    100110: ID302 2
+    100112: ID315
+    100114: ID315 1
+    100116: ID315 2
+    100118: ID323
+    100120: ID323 1
+    100122: ID323 2
+    100124: ID33
+    100126: ID331
+    100128: ID331 1
+    100130: ID331 2
+    100132: ID339
+    100134: ID339 1
+    100136: ID339 2
+    100138: ID354
+    100140: ID354 1
+    100142: ID354 2
+    100144: ID360
+    100146: ID360 1
+    100148: ID360 2
+    100150: ID368
+    100152: ID368 1
+    100154: ID368 2
+    100156: ID374
+    100158: ID374 1
+    100160: ID374 2
+    100162: ID380
+    100164: ID380 1
+    100166: ID380 2
+    100168: ID386
+    100170: ID386 1
+    100172: ID386 2
+    100174: ID39
+    100176: ID390
+    100178: ID390 1
+    100180: ID390 2
+    100182: ID402
+    100184: ID415
+    100186: ID428
+    100188: ID443
+    100190: ID45
+    100192: ID451
+    100194: ID464
+    100196: ID472
+    100198: ID487
+    100200: ID495
+    100202: ID503
+    100204: ID509
+    100206: ID51
+    100208: ID517
+    100210: ID530
+    100212: ID536
+    100214: ID544
+    100216: ID552
+    100218: ID560
+    100220: ID568
+    100222: ID57
+    100224: ID576
+    100226: ID584
+    100228: ID592
+    100230: ID600
+    100232: ID608
+    100234: ID614
+    100236: ID620
+    100238: ID626
+    100240: ID63
+    100242: ID632
+    100244: ID638
+    100246: ID644
+    100248: ID650
+    100250: ID656
+    100252: ID662
+    100254: ID668
+    100256: ID674
+    100258: ID680
+    100260: ID686
+    100262: ID69
+    100264: ID694
+    100266: ID700
+    100268: ID708
+    100270: ID716
+    100272: ID724
+    100274: ID75
+    100276: ID81
+    100278: ID87
+    100280: ID93
+    100282: ID99
+    100284: instance_0
+    100286: instance_1
+    100288: instance_2
+    100290: instance_2 1
+    100292: instance_2 2
+    100294: instance_3
+    100296: instance_3 1
+    100298: instance_3 2
+    100300: instance_4
+    100302: instance_5
+    100304: skp_camera_Last_Saved_SketchUp_View
+    400000: Commercial_Handle__inside
+    400002: Commercial_Handle__inside 1
+    400004: Commercial_Handle__inside 2
+    400006: Commercial_Handle__inside 3
+    400008: Commercial_Handle__inside 4
+    400010: Commercial_Handle__inside 5
+    400012: Glass_Double_Door
+    400014: Glass_Double_Door 1
+    400016: Glass_Double_Door 2
+    400018: //RootNode
+    400020: Henley_Business_
+    400022: ID105
+    400024: ID111
+    400026: ID117
+    400028: ID123
+    400030: ID129
+    400032: ID135
+    400034: ID141
+    400036: ID147
+    400038: ID15
+    400040: ID153
+    400042: ID159
+    400044: ID165
+    400046: ID171
+    400048: ID196
+    400050: ID196 1
+    400052: ID196 2
+    400054: ID204
+    400056: ID204 1
+    400058: ID204 2
+    400060: ID21
+    400062: ID212
+    400064: ID212 1
+    400066: ID212 2
+    400068: ID230
+    400070: ID230 1
+    400072: ID230 2
+    400074: ID238
+    400076: ID238 1
+    400078: ID238 2
+    400080: ID246
+    400082: ID246 1
+    400084: ID246 2
+    400086: ID27
+    400088: ID271
+    400090: ID271 1
+    400092: ID271 2
+    400094: ID279
+    400096: ID279 1
+    400098: ID279 2
+    400100: ID294
+    400102: ID294 1
+    400104: ID294 2
+    400106: ID302
+    400108: ID302 1
+    400110: ID302 2
+    400112: ID315
+    400114: ID315 1
+    400116: ID315 2
+    400118: ID323
+    400120: ID323 1
+    400122: ID323 2
+    400124: ID33
+    400126: ID331
+    400128: ID331 1
+    400130: ID331 2
+    400132: ID339
+    400134: ID339 1
+    400136: ID339 2
+    400138: ID354
+    400140: ID354 1
+    400142: ID354 2
+    400144: ID360
+    400146: ID360 1
+    400148: ID360 2
+    400150: ID368
+    400152: ID368 1
+    400154: ID368 2
+    400156: ID374
+    400158: ID374 1
+    400160: ID374 2
+    400162: ID380
+    400164: ID380 1
+    400166: ID380 2
+    400168: ID386
+    400170: ID386 1
+    400172: ID386 2
+    400174: ID39
+    400176: ID390
+    400178: ID390 1
+    400180: ID390 2
+    400182: ID402
+    400184: ID415
+    400186: ID428
+    400188: ID443
+    400190: ID45
+    400192: ID451
+    400194: ID464
+    400196: ID472
+    400198: ID487
+    400200: ID495
+    400202: ID503
+    400204: ID509
+    400206: ID51
+    400208: ID517
+    400210: ID530
+    400212: ID536
+    400214: ID544
+    400216: ID552
+    400218: ID560
+    400220: ID568
+    400222: ID57
+    400224: ID576
+    400226: ID584
+    400228: ID592
+    400230: ID600
+    400232: ID608
+    400234: ID614
+    400236: ID620
+    400238: ID626
+    400240: ID63
+    400242: ID632
+    400244: ID638
+    400246: ID644
+    400248: ID650
+    400250: ID656
+    400252: ID662
+    400254: ID668
+    400256: ID674
+    400258: ID680
+    400260: ID686
+    400262: ID69
+    400264: ID694
+    400266: ID700
+    400268: ID708
+    400270: ID716
+    400272: ID724
+    400274: ID75
+    400276: ID81
+    400278: ID87
+    400280: ID93
+    400282: ID99
+    400284: instance_0
+    400286: instance_1
+    400288: instance_2
+    400290: instance_2 1
+    400292: instance_2 2
+    400294: instance_3
+    400296: instance_3 1
+    400298: instance_3 2
+    400300: instance_4
+    400302: instance_5
+    400304: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material_1
+    2100002: material
+    2100004: Roofing_Metal_Standing_Seam_Red
+    2100006: Cladding_Siding_White
+    2100008: Brick_Antique_02
+    2100010: __Roofing_Metal_Standing_Seam_Red_1
+    2100012: Translucent_Glass_Blue
+    2100014: Metal_Silver
+    2100016: Wood_Bamboo
+    2100018: Color_M00
+    2100020: Metal_Aluminum_Anodized_0
+    2100022: __Translucent_Glass_Tinted_1
+    2100024: Metal_Brushed
+    2100026: Metal_Rough
+    2100028: Metal_Aluminum_Anodized
+    2300000: Commercial_Handle__inside
+    2300002: Commercial_Handle__inside 1
+    2300004: Commercial_Handle__inside 2
+    2300006: Commercial_Handle__inside 3
+    2300008: Commercial_Handle__inside 4
+    2300010: Commercial_Handle__inside 5
+    2300012: Glass_Double_Door
+    2300014: Glass_Double_Door 1
+    2300016: Glass_Double_Door 2
+    2300018: //RootNode
+    2300020: Henley_Business_
+    2300022: ID105
+    2300024: ID111
+    2300026: ID117
+    2300028: ID123
+    2300030: ID129
+    2300032: ID135
+    2300034: ID141
+    2300036: ID147
+    2300038: ID15
+    2300040: ID153
+    2300042: ID159
+    2300044: ID165
+    2300046: ID171
+    2300048: ID196
+    2300050: ID196 1
+    2300052: ID196 2
+    2300054: ID204
+    2300056: ID204 1
+    2300058: ID204 2
+    2300060: ID21
+    2300062: ID212
+    2300064: ID212 1
+    2300066: ID212 2
+    2300068: ID230
+    2300070: ID230 1
+    2300072: ID230 2
+    2300074: ID238
+    2300076: ID238 1
+    2300078: ID238 2
+    2300080: ID246
+    2300082: ID246 1
+    2300084: ID246 2
+    2300086: ID27
+    2300088: ID271
+    2300090: ID271 1
+    2300092: ID271 2
+    2300094: ID279
+    2300096: ID279 1
+    2300098: ID279 2
+    2300100: ID294
+    2300102: ID294 1
+    2300104: ID294 2
+    2300106: ID302
+    2300108: ID302 1
+    2300110: ID302 2
+    2300112: ID315
+    2300114: ID315 1
+    2300116: ID315 2
+    2300118: ID323
+    2300120: ID323 1
+    2300122: ID323 2
+    2300124: ID33
+    2300126: ID331
+    2300128: ID331 1
+    2300130: ID331 2
+    2300132: ID339
+    2300134: ID339 1
+    2300136: ID339 2
+    2300138: ID354
+    2300140: ID354 1
+    2300142: ID354 2
+    2300144: ID360
+    2300146: ID360 1
+    2300148: ID360 2
+    2300150: ID368
+    2300152: ID368 1
+    2300154: ID368 2
+    2300156: ID374
+    2300158: ID374 1
+    2300160: ID374 2
+    2300162: ID380
+    2300164: ID380 1
+    2300166: ID380 2
+    2300168: ID39
+    2300170: ID402
+    2300172: ID415
+    2300174: ID428
+    2300176: ID443
+    2300178: ID45
+    2300180: ID451
+    2300182: ID464
+    2300184: ID472
+    2300186: ID487
+    2300188: ID495
+    2300190: ID503
+    2300192: ID509
+    2300194: ID51
+    2300196: ID517
+    2300198: ID530
+    2300200: ID536
+    2300202: ID544
+    2300204: ID552
+    2300206: ID560
+    2300208: ID568
+    2300210: ID57
+    2300212: ID576
+    2300214: ID584
+    2300216: ID592
+    2300218: ID600
+    2300220: ID608
+    2300222: ID614
+    2300224: ID620
+    2300226: ID626
+    2300228: ID63
+    2300230: ID632
+    2300232: ID638
+    2300234: ID644
+    2300236: ID650
+    2300238: ID656
+    2300240: ID662
+    2300242: ID668
+    2300244: ID674
+    2300246: ID680
+    2300248: ID686
+    2300250: ID69
+    2300252: ID694
+    2300254: ID700
+    2300256: ID708
+    2300258: ID716
+    2300260: ID75
+    2300262: ID81
+    2300264: ID87
+    2300266: ID93
+    2300268: ID99
+    3300000: Commercial_Handle__inside
+    3300002: Commercial_Handle__inside 1
+    3300004: Commercial_Handle__inside 2
+    3300006: Commercial_Handle__inside 3
+    3300008: Commercial_Handle__inside 4
+    3300010: Commercial_Handle__inside 5
+    3300012: Glass_Double_Door
+    3300014: Glass_Double_Door 1
+    3300016: Glass_Double_Door 2
+    3300018: //RootNode
+    3300020: Henley_Business_
+    3300022: ID105
+    3300024: ID111
+    3300026: ID117
+    3300028: ID123
+    3300030: ID129
+    3300032: ID135
+    3300034: ID141
+    3300036: ID147
+    3300038: ID15
+    3300040: ID153
+    3300042: ID159
+    3300044: ID165
+    3300046: ID171
+    3300048: ID196
+    3300050: ID196 1
+    3300052: ID196 2
+    3300054: ID204
+    3300056: ID204 1
+    3300058: ID204 2
+    3300060: ID21
+    3300062: ID212
+    3300064: ID212 1
+    3300066: ID212 2
+    3300068: ID230
+    3300070: ID230 1
+    3300072: ID230 2
+    3300074: ID238
+    3300076: ID238 1
+    3300078: ID238 2
+    3300080: ID246
+    3300082: ID246 1
+    3300084: ID246 2
+    3300086: ID27
+    3300088: ID271
+    3300090: ID271 1
+    3300092: ID271 2
+    3300094: ID279
+    3300096: ID279 1
+    3300098: ID279 2
+    3300100: ID294
+    3300102: ID294 1
+    3300104: ID294 2
+    3300106: ID302
+    3300108: ID302 1
+    3300110: ID302 2
+    3300112: ID315
+    3300114: ID315 1
+    3300116: ID315 2
+    3300118: ID323
+    3300120: ID323 1
+    3300122: ID323 2
+    3300124: ID33
+    3300126: ID331
+    3300128: ID331 1
+    3300130: ID331 2
+    3300132: ID339
+    3300134: ID339 1
+    3300136: ID339 2
+    3300138: ID354
+    3300140: ID354 1
+    3300142: ID354 2
+    3300144: ID360
+    3300146: ID360 1
+    3300148: ID360 2
+    3300150: ID368
+    3300152: ID368 1
+    3300154: ID368 2
+    3300156: ID374
+    3300158: ID374 1
+    3300160: ID374 2
+    3300162: ID380
+    3300164: ID380 1
+    3300166: ID380 2
+    3300168: ID39
+    3300170: ID402
+    3300172: ID415
+    3300174: ID428
+    3300176: ID443
+    3300178: ID45
+    3300180: ID451
+    3300182: ID464
+    3300184: ID472
+    3300186: ID487
+    3300188: ID495
+    3300190: ID503
+    3300192: ID509
+    3300194: ID51
+    3300196: ID517
+    3300198: ID530
+    3300200: ID536
+    3300202: ID544
+    3300204: ID552
+    3300206: ID560
+    3300208: ID568
+    3300210: ID57
+    3300212: ID576
+    3300214: ID584
+    3300216: ID592
+    3300218: ID600
+    3300220: ID608
+    3300222: ID614
+    3300224: ID620
+    3300226: ID626
+    3300228: ID63
+    3300230: ID632
+    3300232: ID638
+    3300234: ID644
+    3300236: ID650
+    3300238: ID656
+    3300240: ID662
+    3300242: ID668
+    3300244: ID674
+    3300246: ID680
+    3300248: ID686
+    3300250: ID69
+    3300252: ID694
+    3300254: ID700
+    3300256: ID708
+    3300258: ID716
+    3300260: ID75
+    3300262: ID81
+    3300264: ID87
+    3300266: ID93
+    3300268: ID99
+    4300000: SketchUp
+    4300002: ID402
+    4300004: ID415
+    4300006: ID428
+    4300008: ID443
+    4300010: ID451
+    4300012: ID464
+    4300014: ID472
+    4300016: ID487
+    4300018: ID495
+    4300020: ID503
+    4300022: ID509
+    4300024: ID517
+    4300026: ID530
+    4300028: ID536
+    4300030: ID544
+    4300032: ID552
+    4300034: ID560
+    4300036: ID568
+    4300038: ID576
+    4300040: ID584
+    4300042: ID592
+    4300044: ID600
+    4300046: ID608
+    4300048: ID614
+    4300050: ID620
+    4300052: ID626
+    4300054: ID632
+    4300056: ID638
+    4300058: ID644
+    4300060: ID650
+    4300062: ID656
+    4300064: ID662
+    4300066: ID668
+    4300068: ID674
+    4300070: ID680
+    4300072: ID686
+    4300074: ID694
+    4300076: ID700
+    4300078: ID708
+    4300080: ID716
+    4300082: Henley_Business_
+    4300084: ID15
+    4300086: ID21
+    4300088: ID27
+    4300090: ID33
+    4300092: ID39
+    4300094: ID45
+    4300096: ID51
+    4300098: ID57
+    4300100: ID63
+    4300102: ID69
+    4300104: ID75
+    4300106: ID81
+    4300108: ID87
+    4300110: ID93
+    4300112: ID99
+    4300114: ID105
+    4300116: ID111
+    4300118: ID117
+    4300120: ID123
+    4300122: ID129
+    4300124: ID135
+    4300126: ID141
+    4300128: ID147
+    4300130: ID153
+    4300132: ID159
+    4300134: ID165
+    4300136: ID171
+    4300138: Glass_Double_Door
+    4300140: ID271
+    4300142: ID279
+    4300144: ID294
+    4300146: ID302
+    4300148: ID315
+    4300150: ID323
+    4300152: ID331
+    4300154: ID339
+    4300156: ID354
+    4300158: ID360
+    4300160: ID368
+    4300162: ID374
+    4300164: ID380
+    4300166: Commercial_Handle__inside
+    4300168: ID196
+    4300170: ID204
+    4300172: ID212
+    4300174: Commercial_Handle__inside
+    4300176: ID230
+    4300178: ID238
+    4300180: ID246
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
