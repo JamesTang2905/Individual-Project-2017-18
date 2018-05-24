@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Campus of Reading University", "Virtual Campus of Reading University.csproj", "{69670C5E-2A15-4CC7-0D7A-92F2E58A3FA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Campus of Reading University.Plugins", "Virtual Campus of Reading University.Plugins.csproj", "{82F679CF-F466-B7BA-B7AC-42B36FDA74AB}"
