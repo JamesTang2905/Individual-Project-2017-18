@@ -318,6 +318,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\DaydreamElements\Common\Demo\Scripts\Editor\Utility\CombineMeshFiltersEditor.cs" />
+    <Compile Include="Assets\DaydreamElements\Common\Scripts\Editor\Utility\AssetTreePropertyDrawer.cs" />
+    <Compile Include="Assets\DaydreamElements\Common\Scripts\PaginatedScrolling\Editor\PagedScrollbarEditor.cs" />
+    <Compile Include="Assets\DaydreamElements\Elements\Tunneling\Scripts\Editor\TunnelingVignetteEditor.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Editor\DemoInputManagerEditor.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Editor\PermissionsDemoBuildProcessor.cs" />
     <Compile Include="Assets\GoogleVR\Editor\Controller\GvrControllerVisualEditor.cs" />
@@ -349,6 +353,57 @@
     <Compile Include="Assets\NatureStarterKit2\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\DaydreamElements\Common\Demo\Art\Effects\ExponentialShadowMaps\Example\ESMReceiverTemplate.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Art\Effects\ExponentialShadowMaps\Shaders\Combine.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Art\Effects\ExponentialShadowMaps\Shaders\Depth32.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Art\Effects\ExponentialShadowMaps\Shaders\FastBlur.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Art\Effects\ExponentialShadowMaps\Shaders\ScreenSpace.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Art\Effects\Stars\Stars.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\DaydreamElementsLighting\DaydreamElementsLighting.cginc" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\DaydreamElementsLighting\DynamicVertColorSimpleAO.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\DaydreamElementsLighting\DynamicVertColorWind.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\DaydreamElementsLighting\GlowingOrb.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\DaydreamElementsLighting\VertColorDiffuse.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\ExponentialShadowMaps\SnowTerrainESMReceiver.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\ExponentialShadowMaps\UnlitVertColorESMReceiver.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\InfoCardSpectrumBG.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\InfoCardText.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\ParticleSolidColorAdditive.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\PolyObjectLibrary.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\ScrollingParticleClouds.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\SnowTerrain.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\TextShader.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\UnlitTransparentColor.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\UnlitVertColor.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\UnlitVertColorAOTransparent.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\UnlitVertColorBakedIllum.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\UnlitVertColorSky.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\UnlitVertColorSolidOverlay.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\UnlitVertColorTransparent.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\VertexColorSimpleDiffuse.shader" />
+    <None Include="Assets\DaydreamElements\Common\Demo\Shaders\VertexColorize.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ArmModels\Demo\Shaders\ControllerOutline.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ArmModels\Demo\Shaders\Mirror.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ArmModels\Demo\Shaders\ModeHighlight.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ArmModels\Demo\Shaders\Trail.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ArmModels\Demo\Shaders\UnlitVertColorTransparentOutline.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ArmModels\Demo\Shaders\ZapperRay.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ChaseCam\Demo\Shaders\LaserSpark.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ClickMenu\Demo\Shaders\ControllerReticleColor.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ObjectManipulationDemo\Demo\Shaders\UnlitInterativeObject.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ObjectManipulationDemo\Shaders\FlexLaser.shader" />
+    <None Include="Assets\DaydreamElements\Elements\ObjectManipulationDemo\Shaders\FlexLaserReticle.shader" />
+    <None Include="Assets\DaydreamElements\Elements\Teleport\Shaders\BezierArcLaserProcedural.shader" />
+    <None Include="Assets\DaydreamElements\Elements\Teleport\Shaders\BezierArcLaserTextured.shader" />
+    <None Include="Assets\DaydreamElements\Elements\Teleport\Shaders\LaserSpark.shader" />
+    <None Include="Assets\DaydreamElements\Elements\Teleport\Shaders\TeleportGlow.shader" />
+    <None Include="Assets\DaydreamElements\Elements\Tunneling\Shaders\VignetteCage.shader" />
+    <None Include="Assets\DaydreamElements\Elements\Tunneling\Shaders\VignetteIrisClearDepth.shader" />
+    <None Include="Assets\DaydreamElements\Elements\Tunneling\Shaders\VignetteIrisGradient.shader" />
+    <None Include="Assets\DaydreamElements\Main\Shaders\ScreenFade.shader" />
+    <None Include="Assets\DaydreamElements\Main\Shaders\UIFontZTestOff.shader" />
+    <None Include="Assets\DaydreamElements\Main\Shaders\UIZTestOff.shader" />
+    <None Include="Assets\DaydreamElements\Main\Shaders\UnlitTransparentNoZTestColorInside.shader" />
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoUnlitGrayscaleToColor.shader" />
