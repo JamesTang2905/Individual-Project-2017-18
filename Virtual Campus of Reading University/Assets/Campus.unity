@@ -35779,7 +35779,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 15
+  near clip plane: 0.1
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -35794,7 +35794,7 @@ Camera:
   m_TargetEye: 3
   m_HDR: 0
   m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
+  m_AllowDynamicResolution: 1
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -36017,7 +36017,7 @@ CapsuleCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   m_Radius: 0.59
-  m_Height: 15
+  m_Height: 3.32
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &707738215
@@ -36035,7 +36035,7 @@ Transform:
   - {fileID: 1613026664}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &707772400
 GameObject:
   m_ObjectHideFlags: 0
@@ -50317,6 +50317,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 114063829130735768, guid: 5ca80f4596fa44b87912a0592346d260,
+        type: 2}
+      propertyPath: emulatorConnectionMode
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5ca80f4596fa44b87912a0592346d260, type: 2}
   m_IsPrefabParent: 0
@@ -62588,8 +62593,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1245150441}
-  m_LocalRotation: {x: -0.11916704, y: 0.8781836, z: 0.28908727, w: 0.36196876}
-  m_LocalPosition: {x: -2383.034, y: -904.5438, z: -2771.031}
+  m_LocalRotation: {x: -0.25819957, y: 0.6680626, z: 0.26761505, w: 0.6445211}
+  m_LocalPosition: {x: -2135.5884, y: -99.489975, z: -3514.8818}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -65244,8 +65249,8 @@ MonoBehaviour:
   lineStartOffset: {x: 0, y: -0.0099, z: 0.0579}
   minLineLength: 0
   arcTransitionSpeed: 15
-  maxLineVisualCompletion: 0.8
-  minLineVisualCompletion: 0
+  maxLineVisualCompletion: 1
+  minLineVisualCompletion: 1
   completionThreshold: 0.6
   targetScaleTransitionDuration: 0.04
   lineOriginScaleTransitionDuration: 0.04
@@ -65269,7 +65274,7 @@ MonoBehaviour:
   raycastMask:
     serializedVersion: 2
     m_Bits: 1
-  maxDistance: 20
+  maxDistance: 100
   maxSurfaceAngle: 45
   maxControllerPitch: 60
   maxVerticalGain: 10
