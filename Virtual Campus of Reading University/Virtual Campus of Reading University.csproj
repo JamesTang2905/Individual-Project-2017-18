@@ -317,6 +317,7 @@
     <Compile Include="Assets\AddOns\LineGenerator\Scripts\StraightLineParam.cs" />
     <Compile Include="Assets\AddOns\Teleporting\Scripts\GVRTeleport.cs" />
     <Compile Include="Assets\AddOns\Teleporting\Scripts\SmoothMouseLook.cs" />
+    <Compile Include="Assets\audiotrigger.cs" />
     <Compile Include="Assets\DaydreamElements\Common\Demo\Art\Effects\ExponentialShadowMaps\Scripts\ShadowRendering.cs" />
     <Compile Include="Assets\DaydreamElements\Common\Demo\Art\Effects\Stars\StarRendering.cs" />
     <Compile Include="Assets\DaydreamElements\Common\Demo\Scripts\Effects\EonSpinner.cs" />
