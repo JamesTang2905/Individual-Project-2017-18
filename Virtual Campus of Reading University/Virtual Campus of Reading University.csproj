@@ -296,6 +296,12 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Mr. Chow/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
+    <Reference Include="fbsdefines_cs">
+      <HintPath>Assets/DaydreamRenderer/Plugins/fbsdefines_cs.dll</HintPath>
+    </Reference>
+    <Reference Include="FlatBuffers">
+      <HintPath>Assets/DaydreamRenderer/Plugins/FlatBuffers.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
@@ -486,6 +492,29 @@
     <Compile Include="Assets\DaydreamElements\Main\Scripts\Utility\QuitOnCloseButton.cs" />
     <Compile Include="Assets\DaydreamElements\Main\Scripts\Utility\SceneHelpers.cs" />
     <Compile Include="Assets\DaydreamElements\Main\Scripts\Utility\ScreenFade.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\BakeFilter.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\DaydreamVertexLighting.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\NativeWrappers\BVHNodeWrapper.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\NativeWrappers\FBSWrapper.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\NativeWrappers\MeshCacheWrapper.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\ScriptableObjects\BakeData.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\ScriptableObjects\BakeSets.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\ScriptableObjects\DDRSettings.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\ScriptableObjects\MeshContainer.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\ScriptableObjects\VertexDebugState.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\Tests\BVHTest.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\Tests\TriangleTest.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\TypeExtensions.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\Utilities.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Baking\VertexLightingOverride.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Examples\ChangeLighting.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Scripts\DaydreamLight.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Scripts\DaydreamLightingManager.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Scripts\DaydreamMeshRenderer.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Scripts\DaydreamRenderer.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Scripts\ShadowCaster.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Scripts\ShadowReceiver.cs" />
+    <Compile Include="Assets\DaydreamRenderer\Scripts\ShadowSource.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\GVRDemo\GVRDemoManager.cs" />
@@ -680,6 +709,17 @@
     <None Include="Assets\DaydreamElements\Main\Shaders\UIFontZTestOff.shader" />
     <None Include="Assets\DaydreamElements\Main\Shaders\UIZTestOff.shader" />
     <None Include="Assets\DaydreamElements\Main\Shaders\UnlitTransparentNoZTestColorInside.shader" />
+    <None Include="Assets\DaydreamRenderer\Examples\Materials\TessTest.shader" />
+    <None Include="Assets\DaydreamRenderer\Resources\shadowFilter.shader" />
+    <None Include="Assets\DaydreamRenderer\Resources\shadowMask.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseOnly.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseOnlyInclude.cginc" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseReflect.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseReflectInclude.cginc" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamGizmo.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamShared.cginc" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamStandard.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamStandardInclude.cginc" />
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoUnlitGrayscaleToColor.shader" />

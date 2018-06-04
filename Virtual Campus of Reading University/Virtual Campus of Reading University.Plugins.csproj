@@ -296,6 +296,12 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Mr. Chow/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
+    <Reference Include="fbsdefines_cs">
+      <HintPath>Assets/DaydreamRenderer/Plugins/fbsdefines_cs.dll</HintPath>
+    </Reference>
+    <Reference Include="FlatBuffers">
+      <HintPath>Assets/DaydreamRenderer/Plugins/FlatBuffers.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
@@ -401,6 +407,17 @@
     <None Include="Assets\DaydreamElements\Main\Shaders\UIFontZTestOff.shader" />
     <None Include="Assets\DaydreamElements\Main\Shaders\UIZTestOff.shader" />
     <None Include="Assets\DaydreamElements\Main\Shaders\UnlitTransparentNoZTestColorInside.shader" />
+    <None Include="Assets\DaydreamRenderer\Examples\Materials\TessTest.shader" />
+    <None Include="Assets\DaydreamRenderer\Resources\shadowFilter.shader" />
+    <None Include="Assets\DaydreamRenderer\Resources\shadowMask.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseOnly.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseOnlyInclude.cginc" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseReflect.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamDiffuseReflectInclude.cginc" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamGizmo.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamShared.cginc" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamStandard.shader" />
+    <None Include="Assets\DaydreamRenderer\Shaders\daydreamStandardInclude.cginc" />
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoUnlitGrayscaleToColor.shader" />
